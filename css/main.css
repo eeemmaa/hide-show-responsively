@@ -18,7 +18,7 @@ html {
 }
 
 body {
-
+  text-align: center;
 }
 
 img {
@@ -33,7 +33,7 @@ img:nth-child(2), img:nth-child(4) {
 @media only screen and (min-width: 25em) {
 
   img {
-    width: 49%;
+    width: 48%;
   }
 
   img:nth-child(2), img:nth-child(4) {
